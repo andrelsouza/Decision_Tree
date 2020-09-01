@@ -1,7 +1,8 @@
 ## Aplicação de Decision Tree
 ## Autor: André Luiz Araújo de Souza
 ## Problema de negócio: Criando um modelo de ML, baseado em Categorical Decision Tree, visando
-## prever se a criança terá problema na medula ou não
+## prever se a criança terá problema de Kyphosis na medula ou não
+## Data de criação: 01/09/2020
 
 
 setwd("C:/Users/aluiz/OneDrive/Área de Trabalho/Pós Graduação/Curso 01 - Big Data com R e Microsoft Azure Machine Learning/CAP12")
